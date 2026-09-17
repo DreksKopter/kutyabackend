@@ -1,0 +1,5 @@
+$kind: http-request
+name: http://localhost:3030/konyvek
+url: ""
+method: GET
+order: 4478311411764175
